@@ -46,15 +46,6 @@ This project aims to:
    - Input a new resume and compare it against the job description.
    - Output: *Relevant / Not Relevant* or a ranking score.
 
----
-
-## 🧪 Example Workflow
-
-1. Upload resumes into `sample_resumes/`.  
-2. Run the notebook:
-   ```bash
-   jupyter notebook Resume_Screening_with_NLP_prototype.ipynb
-
 Results
 
 Achieved ~90% accuracy in matching resumes to job descriptions.

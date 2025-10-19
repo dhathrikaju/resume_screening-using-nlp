@@ -62,9 +62,6 @@ Integrate with LinkedIn API or ATS systems.
 
 Support for multilingual resumes.
 
-Add BERT / Transformer-based models for better semantic matching.
-
-
-👩‍💻 Author
+Add BERT / Transformer-based models for better semantic mat
 
 
